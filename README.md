@@ -33,12 +33,13 @@
 
 # 📖 portfolio <a name="about-project"></a>
 
-**portfolio** is my web site where I show case my project ...
+This is a responsive  portfolio website built using the Bootstrap framework. The website showcases my skills, experience, and projects in a clean and professional design.
 
 ## 🛠 Built With <a name="built-with"></a>
 <ul>
   <li>HTML</li> 
   <li>CSS</li>
+  <li> Bootstrap</li> 
 </ul>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -60,9 +61,19 @@
 
 ### Key Features <a name="key-features"></a>
 
+- A responsive and mobile-first design that adapts to different screen sizes and devices.
+- A homepage with a hero section, an about section, and a call-to-action button.
+- An about page that highlights my skills and experience.
+- A portfolio page that showcases my projects with images, descriptions, and links.
+- A contact page that includes a form for users to contact me.
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+To view the portfolio, simply navigate to the live website link:
+git clone https://github.com/MariamOsman11/Portflio-Bootsrap.git
+cd portfolio
+
+- If you would like to modify the portfolio, you can clone the repository to your local machine and open the files in a text editor.
 
 ### Prerequisites
 
@@ -88,7 +99,7 @@ This website has been completed and deployed
 
 ### Deployment
 
-- [PortFolio](https://massazoum.github.io/Portfolio-setup-and-mobile-first/)
+- [PortFolio]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,6 +132,11 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+The portfolio template used in this project is provided by BootstrapMade. Special thanks to them for their great work.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## 📝 License <a name="license"></a>
